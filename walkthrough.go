@@ -432,6 +432,7 @@ func (d *walkhubSearchDelegate) IndexEntity(entity ab.Entity) []search.IndexData
 			}
 		}
 	}
+	
 
 	return data
 }
